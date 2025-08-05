@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![image](assets/images/IMG_4397-modified.png)
+<img src="assets/images/IMG_4397-modified.png" width="250" height="250" />
 
 I am Śaśā́ṅkaḣ (श॒शाङ्कः॑ /ɕɐɕɑ̈́ːŋkɐh/), a recent MS graduate (in Robotics & Autonomous Systems) from Boston University at Boston, USA. Prior to that, I got my BE degree in Electronics & Communication Engineering from BMS College of Engineering in Bangalore, India. I was born in Mangalore and raised in Bangalore, both being cities in the Indian state of Karnataka.
 
