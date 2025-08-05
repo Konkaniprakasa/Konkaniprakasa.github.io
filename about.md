@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<img src="assets/images/IMG_4397-modified.png" alt="image" width="50" height="50">
+<img src="https://github.com/Konkaniprakasa/Konkaniprakasa.github.io/blob/master/assets/images/IMG_4397-modified.png" alt="image" width="50" height="50">
 
 I am Śaśā́ṅkaḣ (श॒शाङ्कः॑ /ɕɐɕɑ̈́ːŋkɐh/), a recent MS graduate (in Robotics & Autonomous Systems) from Boston University at Boston, USA. Prior to that, I got my BE degree in Electronics & Communication Engineering from BMS College of Engineering in Bangalore, India. I was born in Mangalore and raised in Bangalore, both being cities in the Indian state of Karnataka.
 
