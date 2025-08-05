@@ -18,7 +18,7 @@ show_sidebar: false             # show a sidebar instead of the usual header
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home", sidebaricon: home}
+  - {file: "index.html", title: "Home", sidebaricon: home}
   - {file: "README.md", title: "About", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
