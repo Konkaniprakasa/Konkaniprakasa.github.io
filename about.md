@@ -5,6 +5,10 @@ layout: page
 ---
 <img src="assets/images/2E47C728-C759-4AA5-B15E-9E3182E874F4.jpeg" alt="Avatar">
 
+img {
+  border-radius: 50%;
+}
+
 I am Śaśā́ṅkaḣ (श॒शाङ्कः॑ /ɕɐɕɑ̈́ːŋkɐh/), a recent MS graduate (in Robotics & Autonomous Systems) from Boston University at Boston, USA. Prior to that, I got my BE degree in Electronics & Communication Engineering from BMS College of Engineering in Bangalore, India. I was born in Mangalore and raised in Bangalore, both being cities in the Indian state of Karnataka.
 
 My native language (& the language I happen to be most fluent in) is Konkani. With India being quite a multilingual country, I grew up in a pretty diverse environment enabling me to gain fluency in multiple languages such as Marathi, Hindi and Kannada. Additionally, I acquired working proficiency in languages such as Assamese, Nepali and Portuguese through self-study.
