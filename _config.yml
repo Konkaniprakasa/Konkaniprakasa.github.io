@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:shashankbasty20@gmail.com"}
-  - {title: Twitter, icon: "fab fa-fw fa-twitter-square", url: "https://x.com/konkanist?s=21"}
+  - {title: Twitter, icon: X, url: "https://x.com/konkanist?s=21"}
   - {title: Instagram, icon: assets/images/instagram.svg, url: "https://www.instagram.com/konkanibhasa_/"}
 
 comments:
