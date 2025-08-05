@@ -1,5 +1,5 @@
 ---
-title: "Konkani"
+title: "What is Konkani?"
 permalink: "/konkani/"
 layout: page
 ---
