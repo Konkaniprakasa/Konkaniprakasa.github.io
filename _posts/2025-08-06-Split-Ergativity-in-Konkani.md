@@ -186,6 +186,12 @@ hāṇĩ suyo hāḍlyo <br>
 they-3p.PL.PROX-ERG needles.FEM.PL bring-FEM.PL.PST <br>
 'They brought needles.'<br>
 
+**आपणें घर घेतलां** <br>
+āpṇẽ gʰar gʰetlā̃ <br>
+I-1p.SG.RFLX-ERG house.NEUT.SG bought-NEUT.SG.PRF <br>
+'I (myself) have bought a house.'<br>
+
+
 _(Since the pronominal subjects in the five examples above are all marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number)_ <br>
 
 **आमीं रुपीं घेतांव​​​** <br>
