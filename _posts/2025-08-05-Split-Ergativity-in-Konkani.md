@@ -56,10 +56,9 @@ As seen in the examples above, **_the verb agrees with the subject in terms of g
 &nbsp; boy.MASC.SG-ERG mushrooms.NEUT.PL eat-NEUT.PL.PLPRF <br>
 &nbsp; 'The boy had eaten mushrooms.' <br>
 
-As seen in the above examples, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative case. 
+As seen in these examples, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative (instrumental) case. 
 
-
-
+This split with regards to ergativity, however, does not occur with intransitive verbs, where the subject consistently appears in the nominative case regardless of tense or aspect and the verb always agrees with the subject.
 
 
 
