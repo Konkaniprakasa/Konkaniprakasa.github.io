@@ -123,7 +123,35 @@ When pronominals function as the subject of a verb, ergativity is marked using a
 
 _(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_
 
-Other details regarding split ergativity are largely same as the nominals discussed above.
+Other details regarding split ergativity are largely same as the nominals discussed above. Some illustrative examples-
+
+**तूं फातर उडयतालो** <br>
+tũ pʰātar uḍaytālo  <br>
+you-2p.SG stone.MASC.SG. throw-MASC.SG.IMPERF <br>
+'You used to throw a stone.' <br>
+[Assuming the pronominal subject here refers to a masculine entity]
+
+**हांव शीत खाताली** <br>
+hā̃v śit kʰātāli <br>
+I-1p.SG. rice.NEUT.PL eat-FEM.SG.IMPERF <br>
+'I used to eat rice.' <br>
+[Assuming the pronominal subject here refers to a feminine entity]
+
+_(Since first and second person singular pronominals do not explicitly inflect for gender, in non-ergative contexts, verbal agreement in terms of gender is determined by the gender of the person being referred to. For instance, if a man uses the pronoun हांव hā̃v 'I', the verb must be inflected for the masculine gender; if a woman uses it, the verb must be inflected for the feminine. Similarly, when referring to someone using the pronoun तूं tũ 'you', the verb agrees with the gender of the addressee in non-ergative situations.)_
+
+**तो माजराक जेवण दिता** <br>
+to mājrāk  j́evaṇ ditā <br>
+he-3p.MASC.SG.DIST cat.NEUT.SG-ACC meal.NEUT.SG. give-SG.PRES <br>
+'He gives the cat a meal.' <br>
+
+**हांवें आंबो खाल्लो** <br>
+hā̃vẽ āmbo kʰāllo <br>
+I-1p.SG.ERG mango.MASC.SG. eat-MASC.SG.PLPRF <br>
+'I had eaten a mango.' <br>
+
+(Since the pronominal subject here is marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number) <br>
+
+
 
 
 
