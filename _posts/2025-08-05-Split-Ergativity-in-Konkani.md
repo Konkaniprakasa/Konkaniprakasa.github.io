@@ -81,7 +81,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
 * Direct objects that are inanimate (in the simplest of terms, non-living entities) are left unmarked-
 
-  &nbsp; **अस्तुरयेन फातर उडयलो** <br>
+  &nbsp; **अस्तुऱ्येन फातर उडयलो** <br>
   &nbsp; asturyen	pʰātar uḍaylo <br>
   &nbsp; woman.FEM.SG-ERG	stone.MASC.SG	hit-MASC.SG.PST <br>
   &nbsp; 'The women threw the stone.' <br>
@@ -96,6 +96,8 @@ This split with regards to ergativity, however, does not occur with intransitive
   &nbsp; daughter.FEM.SG	TV.MASC.SG	buy-SG.PRES <br>
   &nbsp; ‘The daughter buys a TV.’ <br>
 
+
+## Ergativite marking in Pronominals
 
 
 
