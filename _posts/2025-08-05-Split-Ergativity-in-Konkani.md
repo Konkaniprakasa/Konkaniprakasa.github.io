@@ -71,7 +71,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
   &nbsp; **बापायन धुवांक आपयल्यो** <br>
   &nbsp; bāpāyn	dʰuvā̃ṅk	āpaylyo <br>
-  &nbsp; father.MASC.SG-ERG	daughter.FEM.PL. call-FEM.PL.PST <br>
+  &nbsp; father.MASC.SG-ERG daughter.FEM.PL. call-FEM.PL.PST <br>
   &nbsp; 'The father called the daughters.' <br>
 
   &nbsp; **शींव चितळाक खाता** <br>
@@ -93,7 +93,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
   &nbsp; **धूव टिव्ही घेता** <br>
   &nbsp; dʰūv ṭivʰi gʰetā <br>
-  &nbsp; daughter.FEM.SG	TV.MASC.SG	buy-SG.PRES <br>
+  &nbsp; daughter.FEM.SG television.MASC.SG	buy-SG.PRES <br>
   &nbsp; ‘The daughter buys a TV.’ <br>
 
 
