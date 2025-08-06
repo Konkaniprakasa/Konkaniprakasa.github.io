@@ -35,7 +35,9 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 &nbsp; bʰurgo	lāḍu	kʰāit <br>
 &nbsp; boy.MASC.SG	laddoo.MASC.SG	eat-SG.FUT2 <br>
 &nbsp; 'The boy might  eat a laddo.' <br>
-&nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)
+&nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)<br>
+
+As seen in the examples above, **_the verb agrees with the subject in terms of gender and number_** and the subject is in the nominative case. The direct objects here are left unmarked (usually accusative) because they are inanimate, more on that later.
 
 <ins> **Perfect or Preterite (Past) Environments:** </ins>
 
@@ -51,8 +53,10 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 
 &nbsp; **भुरग्यान अळमीं खाल्लीं** <br>
 &nbsp; bʰurgyān aḷmĩ kʰāllĩ <br>
-&nbsp; boy.MASC.SG.-ERG mushrooms.NEUT.PL eat-NEUT.PL.PLPRF <br>
-&nbsp; 'The boy had eaten mushrooms.'
+&nbsp; boy.MASC.SG-ERG mushrooms.NEUT.PL eat-NEUT.PL.PLPRF <br>
+&nbsp; 'The boy had eaten mushrooms.' <br>
+
+As seen in the above examples, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative case. 
 
 
 
