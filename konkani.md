@@ -4,7 +4,7 @@ permalink: "/konkani/"
 layout: page
 ---
 
-Konkani (कोंकणी Koṅkaṇi /ˈkoŋkəɳĩ/) is an Indo-Aryan language spoken in the states of Goa, Karnataka, Kerala and Maharashtra along the western coast of India. Linguistically, Konkani belongs to the **_southwestern branch_** of the **_Indo-Aryan language family_**. Its roots trace back to Sanskrit, early forms of Prakrit and Apabhramsha, evolving through a complex process of language contact, particularly with Dravidian languages like Kannada. This contact has resulted in Konkani exhibiting unique phonological, morphological, and syntactic features.
+Konkani (कोंकणी Koṅkaṇi /ˈkoŋkᵊɳĩ/) is an Indo-Aryan language spoken in the states of Goa, Karnataka, Kerala and Maharashtra along the western coast of India. Linguistically, Konkani belongs to the **_southwestern branch_** of the **_Indo-Aryan language family_**. Its roots trace back to Sanskrit, early forms of Prakrit and Apabhramsha, evolving through a complex process of language contact, particularly with Dravidian languages like Kannada. This contact has resulted in Konkani exhibiting unique phonological, morphological, and syntactic features.
 
 Though it shares linguistic features with its neighboring languages such as Marathi, Gujarati and Kannada, Konkani maintains a distinct identity, shaped by centuries of socio-cultural evolution, migration, and contact with multiple linguistic communities.
 
