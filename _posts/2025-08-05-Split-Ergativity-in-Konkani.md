@@ -71,7 +71,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
   &nbsp; **बापायन धुवांक आपयल्यो** <br>
   &nbsp; bāpāyn	dʰuvā̃ṅk	āpaylyo <br>
-  &nbsp; father.MASC.SG-ERG daughter.FEM.PL. call-FEM.PL.PST <br>
+  &nbsp; father.MASC.SG-ERG daughter-FEM.PL-ACC call-FEM.PL.PST <br>
   &nbsp; 'The father called the daughters.' <br>
 
   &nbsp; **शींव चितळाक खाता** <br>
