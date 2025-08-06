@@ -17,7 +17,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 
 &nbsp; **भुरगो	आंबो	खाता** <br>
 &nbsp; bʰurgo	āmbo	kʰātā <br>
-&nbsp; boy.MASC.SG	 mango.MASC.SG	 eat-MASC.SG.PRS <br>
+&nbsp; boy.MASC.SG	 mango.MASC.SG	 eat-SG.PRS <br>
 &nbsp; 'The boy eats mango.' <br>
 &nbsp; (_The simple present tense doesn't inflect for gender in Konkani_)
 
