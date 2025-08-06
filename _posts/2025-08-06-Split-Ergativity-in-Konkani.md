@@ -11,7 +11,7 @@ Split ergativity is a phenomenon in some languages where _ergative-absolutive al
 
 Konkani shows split-ergativity i.e., it shows both nominative-accusative and ergative-absolutive alignments.  In the ergative-absolutive alignment, the subject of a transitive verb [_in perfective and preterite (past) environments_] takes the ergative marking [_which is identical to the instrumental case for nominals and a derivative of the instrumental case for pronominals_] rather than the nominative-accusative marking  in the case of subject of instransitive verbs [and other environments of transitive verbs]. This alignment results in the verb then agreeing with the object instead of the subject in terms of gender and number.
 
-Taking different environments of the transitive verb खावंक kʰāuṅk​ 'to eat' as an example-
+Taking different environments of the transitive verb खावंक kʰāuṅk​ 'to eat' for the first few examples-
 
 <ins> **Non-perfect environments:** </ins>
 
@@ -149,15 +149,32 @@ hi sinemā coytali <br>
 she-3p.FEM.SG.PROX movie.MASC.SG see-FEM.SG.FUT1 <br>
 'She will watch the movie.' <br>
 
+_(Since third person singular pronominals explicitly inflect for gender, in non-ergative contexts, verbal agreement in terms of gender is relatively more straightforward.)_
+
 **हांवें आंबो खाल्लो** <br>
 hā̃vẽ āmbo kʰāllo <br>
 I-1p.SG.ERG mango.MASC.SG. eat-MASC.SG.PLPRF <br>
 'I had eaten a mango.' <br>
 
+**तुवें घर सोडिल्लें** <br>
+tuvẽ gʰar soḍillẽ <br>
+you-2p.SG-ERG house.NEUT.SG leave-NEUT.SG.PLPRF <br>
+'You had left the house.' <br>
+
 **ताणें राधाक चिमटिली** <br>
 tāṇẽ rādʰāk ćimṭili <br>
 he-3p.MASC.SG-ERG radha.FEM.SG-ACC pinch-FEM.SG.PST <br>
-'He pinched Radha.'
+'He pinched Radha.' <br>
+
+**ताणीं आंबे खाल्ले** <br>
+tāṇĩ āmbe kʰālle <br>
+they-3p.PL.DIST-ERG mangoes.MASC.PL eat-MASC.PL.PLPRF <br>
+'They had eaten mangoes.' <br>
+
+**हाणीं सुयो हाडल्यो** <br>
+hāṇĩ suyo hāḍlyo <br>
+they-3p.PL.PROX-ERG needles.FEM.PL bring-FEM.PL.PST <br>
+'They brought needles.'<br>
 
 (Since the pronominal subject here is marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number) <br>
 
