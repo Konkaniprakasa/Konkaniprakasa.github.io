@@ -144,10 +144,20 @@ to mājrāk  j́evaṇ ditā <br>
 he-3p.MASC.SG.DIST cat.NEUT.SG-ACC meal.NEUT.SG. give-SG.PRES <br>
 'He gives the cat a meal.' <br>
 
+**ही सिनेमा चोयतली** <br>
+hi sinemā coytali <br>
+she-3p.FEM.SG.PROX movie.MASC.SG see-FEM.SG.FUT1 <br>
+'She will watch the movie.' <br>
+
 **हांवें आंबो खाल्लो** <br>
 hā̃vẽ āmbo kʰāllo <br>
 I-1p.SG.ERG mango.MASC.SG. eat-MASC.SG.PLPRF <br>
 'I had eaten a mango.' <br>
+
+**ताणें राधाक चिमटिली** <br>
+tāṇẽ rādʰāk ćimṭili <br>
+he-3p.MASC.SG-ERG radha.FEM.SG-ACC pinch-FEM.SG.PST <br>
+'He pinched Radha.'
 
 (Since the pronominal subject here is marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number) <br>
 
