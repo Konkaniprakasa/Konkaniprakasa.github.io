@@ -116,7 +116,7 @@ It is important to note that object case marking does not prevent the verb from 
 
 ## Marking Ergativity in Pronominals
 
-When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). **Except for the 1st and 2nd person plural pronouns**, ergativity is generally marked in all other pronominals.
+When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). **Except for the 1st and 2nd person plural pronouns**, ergativity is generally marked in all other pronominals including the reflexive ones.
 
 * **हांव**​ hā̃v + [INST. case] → **हांवेन**​ hā̃ven → **हांवें** hā̃vẽ (1p.SG)  <br>
 * **तूं**​ tũ + [INST. case] → **तुवेन​**​ tuven → **तुवें** tuvẽ (2p.SG) <br>
@@ -126,6 +126,8 @@ When pronominals function as the subject of a verb, ergativity is marked using a
 * **ही** hi + [INST. case] → **हिणेन​​** hiṇen → **हिणें** hiṇẽ (3p.FEM.SG.PROX) <br>
 * **ते** te + [INST. case] → **ताणीन​​** tāṇin → **ताणीं** tāṇĩ (3p.PL.DIST) <br>
 * **हे** he + [INST. case] → **हाणीन​​** hāṇin → **हाणीं** hāṇĩ (3p.PL.PROX) <br>
+* **स्वता** svatā + [INST. case] → **स्वयेन​** svayen → **स्वयें** svayẽ (1p.SG.RFLX)
+* **आपूण​** āpuṇ + [INST. case] → **आपणेन​** āpṇen → **आपणें** āpṇẽ (1p.SG.RFLX) <br>
 
 _(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_
 
