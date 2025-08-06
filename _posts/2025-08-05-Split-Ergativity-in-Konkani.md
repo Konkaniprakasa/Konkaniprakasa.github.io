@@ -71,7 +71,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
   &nbsp; **बापायन धुवांक आपयल्यो** <br>
   &nbsp; bāpāyn	dʰuvā̃ṅk	āpaylyo <br>
-  &nbsp; father.MASC.SG-ERG	daughters.MASC.PL-ACC	call-FEM.PL.PST <br>
+  &nbsp; father.MASC.SG-ERG	daughter.FEM.PL. call-FEM.PL.PST <br>
   &nbsp; 'The father called the daughters.' <br>
 
   &nbsp; **शींव चितळाक खाता** <br>
@@ -83,12 +83,12 @@ This split with regards to ergativity, however, does not occur with intransitive
 
   &nbsp; **अस्तुऱ्येन फातर उडयलो** <br>
   &nbsp; asturyen	pʰātar uḍaylo <br>
-  &nbsp; woman.FEM.SG-ERG	stone.MASC.SG	hit-MASC.SG.PST <br>
-  &nbsp; 'The women threw the stone.' <br>
+  &nbsp; woman.FEM.SG	stone.MASC.SG	throw-MASC.SG.PST <br>
+  &nbsp; 'The woman threw the stone.' <br>
 
   &nbsp; **पुतान घर पळयिल्लें** <br>
   &nbsp; putān gʰar paḷayillẽ <br>
-  &nbsp; son.MASC.SG-ERG	house.NEUT.SG	see-NEUT.SG.PLPRF <br>
+  &nbsp; son.MASC.SG	house.NEUT.SG	see-NEUT.SG.PLPRF <br>
   &nbsp; ‘The son had seen the house.’ <br>
 
   &nbsp; **धूव टिव्ही घेता** <br>
