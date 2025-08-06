@@ -6,6 +6,8 @@ layout: post
 
 In general, a verb is said to be _intransitive_ (or अकर्मक​ akarmaka in the **_Indic grammatical tradition_**) when it does not require a direct object (कर्म karma) to express a complete action. On the other hand, a verb is said to be _transitive_ (or सकर्मक​ sakarmaka) when it requires a direct object to express a complete action.
 
+* **Examples of a few intransitive verbs in Konkani:**
+
 ## What is Split Ergativity?
 Split ergativity is a phenomenon in some languages where _ergative-absolutive alignment_ is used in certain contexts, while _nominative-accusative alignment_ is used in others.
 
@@ -110,7 +112,7 @@ It is important to note that object case marking does not prevent the verb from 
 
 ## Marking Ergativity in Pronominals
 
-When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). **Except for the 1st and 2nd person plural pronouns**, ergativity is generally marked on all other pronominals.
+When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). **Except for the 1st and 2nd person plural pronouns**, ergativity is generally marked in all other pronominals.
 
 * **हांव**​ hā̃v + [INST. case] → **हांवेन**​ hā̃ven → **हांवें** hā̃vẽ (1p.SG)  <br>
 * **तूं**​ tũ + [INST. case] → **तुवेन​**​ tuven → **तुवें** tuvẽ (2p.SG) <br>
@@ -201,6 +203,35 @@ you-2p.PL-ERG banana.NEUT.PL eat-NEUT.PL.PST <br>
 'You (all) ate bananas.'
 
 _(From the four examples above it is clear that the first and second person plural pronominals do not change their forms even in ergative contexts, they remain आमीं āmĩ and तुमीं tumĩ respectively. In non-ergative contexts, verb agreement depends on the composition of the group being referred to: if the group consists entirely of masculine or entirely of feminine entities, the verb agrees accordingly; if the group is mixed, the verb is inflected for the neuter gender. In ergative contexts, however, verb agreement follows the usual pattern and is determined by the gender and number of the direct object.)_
+
+
+## Ergativity in the Obligative Mood
+
+When a transitive verb is conjugated in the obligative mood, the subject takes the ergative marking. Per usual, nominals take the instrumental case and pronominals take the 'ergative' case.
+
+Obligative mood in Konkani is indicated by the infinitive form of the verb accompanied by the auxiliary जाय jāy 'want'.
+
+**श्वेतान पद गावंक जाय​** <br>
+śvetān pad gāuṅk jāy <br>
+shveta.FEM.SG-ERG song.NEUT.SG sing-OBLIG <br>
+'Shveta must sing a song!' <br>
+
+**तुवें काम करूंक जाय​** <br>
+tuvẽ kām karūṅk jāy <br>
+you-2p.SG-ERG work.NEUT.SG do-OBLIG <br>
+'You must work!' <br>
+
+**हांवें दार उगडूंक जाय​** <br>
+hā̃vẽ dār ugḍūṅk jāy <br>
+I-1p.SG-ERG door.NEUT.SG open-OBLIG <br>
+'I must open the door!'<br>
+
+**आमीं घर पळोवंक जाय​** <br>
+āmĩ gʰar paḷouṅk  jāy <br>
+we-1p.PL-ERG house.NEUT.SG seep-OBLIG <br>
+'We must see the house!' <br>
+
+
 
 
 
