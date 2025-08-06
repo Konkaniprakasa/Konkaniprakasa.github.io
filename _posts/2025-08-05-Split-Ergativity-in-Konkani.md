@@ -15,25 +15,25 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 
 <ins> **Non-perfect environments:** </ins>
 
-&nbsp; **भुरगो	आंबो	खाता** <br>
+&nbsp; **भुरगो आंबो खाता** <br>
 &nbsp; bʰurgo	āmbo	kʰātā <br>
-&nbsp; boy.MASC.SG	 mango.MASC.SG	 eat-SG.PRES <br>
+&nbsp; boy.MASC.SG mango.MASC.SG eat-SG.PRES <br>
 &nbsp; 'The boy eats mango.' <br>
 &nbsp; (_The simple present tense doesn't inflect for gender in Konkani_)
 
-&nbsp; **भुरगो	दाळ	खातालो** <br>
+&nbsp; **भुरगो दाळ खातालो** <br>
 &nbsp; bʰurgo	dāḷ	kʰātālo <br>
-&nbsp; boy.MASC.SG	lentil.FEM.SG	eat-MASC.SG.IMPRF <br>
+&nbsp; boy.MASC.SG lentil.FEM.SG eat-MASC.SG.IMPRF <br>
 &nbsp; 'The boy used to eat lentil.'
 
-&nbsp; **भुरगो	पोळो	खातलो** <br>
-&nbsp; bʰurgo	poḷo	kʰātalo <br>
-&nbsp; boy.MASC.SG	pancake.MASC.SG	eat-MASC.SG.FUT1 <br>
+&nbsp; **भुरगो पोळो खातलो** <br>
+&nbsp; bʰurgo poḷo kʰātalo <br>
+&nbsp; boy.MASC.SG pancake.MASC.SG eat-MASC.SG.FUT1 <br>
 &nbsp; 'The boy will eat a pancake.'
 
-&nbsp; **भुरगो	लाडू	खाय​त** <br>
-&nbsp; bʰurgo	lāḍu	kʰāyt <br>
-&nbsp; boy.MASC.SG	laddoo.MASC.SG	eat-SG.FUT2 <br>
+&nbsp; **भुरगो लाडू खाय​त** <br>
+&nbsp; bʰurgo lāḍu kʰāyt <br>
+&nbsp; boy.MASC.SG laddoo.MASC.SG eat-SG.FUT2 <br>
 &nbsp; 'The boy might  eat a laddo.' <br>
 &nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)<br>
 
@@ -41,9 +41,9 @@ As seen in the examples above, **_the verb agrees with the subject in terms of g
 
 <ins> **Perfect or Preterite (Past) Environments:** </ins>
 
-&nbsp; **भुरग्यान	कणंग खालें** <br>
-&nbsp; bʰurgyān	kaṇaṅg	kʰālẽ <br>
-&nbsp; boy.MASC.SG-ERG	sweet potato.NEUT.SG	eat-NEUT.SG.PST <br>
+&nbsp; **भुरग्यान कणंग खालें** <br>
+&nbsp; bʰurgyān kaṇaṅg kʰālẽ <br>
+&nbsp; boy.MASC.SG-ERG sweet potato.NEUT.SG eat-NEUT.SG.PST <br>
 &nbsp; 'The boy ate a sweet potato.'
 
 &nbsp; **भुरग्यान खिचडी खाल्या** <br>
