@@ -10,8 +10,7 @@ Though it shares linguistic features with its neighboring languages such as Mara
 
 One of the most fascinating feature of the Konkani language is its **_pluricentric nature_**. It is a language that has many different varieties written in three main writing systems- Devanagari (used in official capacity in Goa; recongized by the Central Sahitya Akademi as the official script of Konkani; also used by the Konkani community in Kerala, Maharashtra & parts of Karnataka), Romi (the Roman Alphabet adapted to write Konkani; used by a portion of the Goan Christian community) and the Kannada script (used in parts of Karnataka). (*In the essays featured on this blog, Konkani is represented using the Devanagari script, a modified ISO-15919 roman transliteration and the International Phonetic Alphabet.*)
 
-<img src="/assets/images/(Malvani).png" alt="image" width="400" height="400" /> 
-
+<img src="/assets/images/(Malvani).png" alt="image" width="400" height="400" /> <br>
 *Varieties of the Konkani language*
 
 Konkani is not merely a means of communication; it is a vessel of the cultural identity of the Konkani people, a symbol of Konkani people’s resiliance in the face of adversities. The language is deeply embedded in folk literature, devotional hymns, theatre (like tiatr, nāṭak etc.) and oral storytelling traditions.
