@@ -4,7 +4,9 @@ layout: post
 ---
 ## Transitivity
 
-In general, a verb is said to be _intransitive_ (or अकर्मक​ akarmaka in the **_Indic grammatical tradition_**) when it does not require a direct object (कर्म karma) to express a complete action. On the other hand, a verb is said to be _transitive_ (or सकर्मक​ sakarmaka) when it requires a direct object to express a complete action.
+In general, a verb is said to be _intransitive_ (or अकर्मक​ akarmaka in the **_Indic grammatical tradition_**) when it does not require a direct object (कर्म karma) to express a complete action. On the other hand, a verb is said to be _transitive_ (or सकर्मक​ sakarmaka) when it requires a direct object to express a complete action. 
+
+There's a third category called _ditransitive_ which are verbs that take a direct object and an indirect object (Think about the following sentence- "Ram gave Rajesh a gift." Here the verb give in the past tense has two objects, direct object- Rajesh, indirect object- gift). **In the Indic context, ditransitive verbs are not treated any different from general transitive verbs.**
 
 * **Examples of a few intransitive verbs in Konkani:** रडूंक​ raḍūṅk 'to cry', हांसूंक​ hā̃sūṅk 'to laugh', धांवंक​ dʰā̃uṅk 'to run', न्हावंक​ nʰāuṅk 'to bathe' etc.
   
