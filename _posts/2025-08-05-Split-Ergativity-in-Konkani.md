@@ -99,7 +99,7 @@ This split with regards to ergativity, however, does not occur with intransitive
 
 ## Marking Ergativity in Pronominals
 
-
+When pronominals function as the subject of a sentence, ergativity is marked using a so-called 'ergative' case (
 
 
 
