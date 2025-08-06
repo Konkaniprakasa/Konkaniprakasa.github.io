@@ -19,7 +19,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 &nbsp; bʰurgo	āmbo	kʰātā <br>
 &nbsp; boy.MASC.SG mango.MASC.SG eat-SG.PRES <br>
 &nbsp; 'The boy eats mango.' <br>
-&nbsp; (_The simple present tense doesn't inflect for gender in Konkani_)
+&nbsp; _(The simple present tense doesn't inflect for gender in Konkani)_
 
 &nbsp; **भुरगो दाळ खातालो** <br>
 &nbsp; bʰurgo	dāḷ	kʰātālo <br>
@@ -35,7 +35,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 &nbsp; bʰurgo lāḍu kʰāyt <br>
 &nbsp; boy.MASC.SG laddoo.MASC.SG eat-SG.FUT2 <br>
 &nbsp; 'The boy might  eat a laddo.' <br>
-&nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)<br>
+&nbsp; _(The second future tense also called indefinite future, doesn't inflect for gender in Konkani)_ <br>
 
 In the above examples, **_the verb agrees with the subject in terms of gender and number_** and the subject is in the nominative case. The direct objects here are left unmarked (usually accusative) because they are inanimate, more on that later.
 
@@ -176,12 +176,31 @@ hāṇĩ suyo hāḍlyo <br>
 they-3p.PL.PROX-ERG needles.FEM.PL bring-FEM.PL.PST <br>
 'They brought needles.'<br>
 
-(Since the pronominal subject here is marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number) <br>
+_(Since the pronominal subjects in the five examples above are all marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number)_ <br>
 
+**आमीं रुपीं घेतांव​​​** <br>
+āmĩ rupĩ gʰetā̃v <br>
+we-1p.PL silver.NEUT.PL buy-PL.PRES <br>
+'We buy silver.' <br>
+(As usual, the simple present tense doesn't inflect for gender in Konkani)
 
+**तुमीं साडयो व्हरताल्यो** <br>
+tumĩ sāḍyo vʰartālyo <br>
+you-2p.PL sarees.FEM.PL take-FEM.PL.IMPERF <br>
+'You (all) used to take sarees.' <br>
+[Assuming that the pronominal subject here refers to a group of feminine entities only]
 
+**आमीं दूद दवरिल्लें** <br>
+āmĩ dud davarillẽ <br>
+we-1p.PL-ERG milk.NEUT.SG keep-NEUT.SG.PLPRF <br>
+'We had kept milk.'
 
+**तुमीं केळीं खालीं** <br>
+tumĩ keḷĩ kʰālĩ <br>
+you-2p.PL-ERG banana.NEUT.PL eat-NEUT.PL.PST <br>
+'You (all) ate bananas.'
 
+_(From the four examples above it is clear that the first and second person plural pronominals do not change their forms even in ergative contexts, they remain आमीं āmĩ and तुमीं tumĩ respectively. In non-ergative contexts, verb agreement depends on the composition of the group being referred to: if the group consists entirely of masculine or entirely of feminine entities, the verb agrees accordingly; if the group is mixed, the verb is inflected for the neuter gender. In ergative contexts, however, verb agreement follows the usual pattern and is determined by the gender and number of the direct object.)_
 
 
 
