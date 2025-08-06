@@ -6,7 +6,9 @@ layout: post
 
 In general, a verb is said to be _intransitive_ (or अकर्मक​ akarmaka in the **_Indic grammatical tradition_**) when it does not require a direct object (कर्म karma) to express a complete action. On the other hand, a verb is said to be _transitive_ (or सकर्मक​ sakarmaka) when it requires a direct object to express a complete action.
 
-* **Examples of a few intransitive verbs in Konkani:**
+* **Examples of a few intransitive verbs in Konkani:** रडूंक​ raḍūṅk 'to cry', हांसूंक​ hā̃sūṅk 'to laugh', धांवंक​ dʰā̃uṅk 'to run', न्हावंक​ nʰāuṅk 'to bathe' etc.
+  
+* **Examples of a few transitive verbs in Konkani:** करूंक karūṅk 'to do'​, व्हरूंक vʰarūṅk 'to take away', धरूंक dʰarūṅk 'to hold'​, खावंक​ kʰāuṅk 'to eat' etc.
 
 ## What is Split Ergativity?
 Split ergativity is a phenomenon in some languages where _ergative-absolutive alignment_ is used in certain contexts, while _nominative-accusative alignment_ is used in others.
