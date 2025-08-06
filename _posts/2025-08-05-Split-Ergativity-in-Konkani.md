@@ -96,6 +96,17 @@ This split with regards to ergativity, however, does not occur with intransitive
   &nbsp; daughter.FEM.SG television.MASC.SG	buy-SG.PRES <br>
   &nbsp; ‘The daughter buys a TV.’ <br>
 
+It is important to note that object case marking does not prevent the verb from agreeing with the object (in gender and number) when the subject is in the ergative case, nor does it inhibit verb agreement with the subject in constructions where the subject is not ergative.
+
+  &nbsp; **सीतान सुरेंद्राक मारलो** <br>
+  &nbsp; sitān surendrāk mārlo <br>
+  &nbsp; sita.FEM.SG-ERG surendra.MASC.SG-ACC hit.MASC.SG.PST <br>
+  &nbsp; 'Sit hit Surendra.' <br>
+
+  &nbsp; **सीता सुरेंद्राक मारताली** <br>
+  &nbsp; sitā surendrāk mārtāli <br>
+  &nbsp; sita.FEM.SG surendra.MASC.SG-ACC hit.FEM.SG.IMPERF <br>
+  &nbsp; 'Sita used to hit Surendra.'<br>
 
 ## Marking Ergativity in Pronominals
 
