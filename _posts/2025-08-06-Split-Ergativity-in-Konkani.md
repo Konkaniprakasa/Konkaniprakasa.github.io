@@ -129,7 +129,9 @@ When pronominals function as the subject of a verb, ergativity is marked using a
 * **स्वता** svatā + [INST. case] → **स्वयेन​** svayen → **स्वयें** svayẽ (1p.SG.RFLX)
 * **आपूण​** āpuṇ + [INST. case] → **आपणेन​** āpṇen → **आपणें** āpṇẽ (1p.SG.RFLX) <br>
 
-_(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_
+_(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_ <br>
+
+_(स्वयें svayẽ seems to be the ergative of a स्वयम् svayam form rather than being the ergative of स्वता svatā, however, svayam is not used in Konkani)_
 
 Other details regarding split ergativity are largely same as the nominals discussed above. Some illustrative examples-
 
@@ -145,7 +147,7 @@ I-1p.SG. rice.NEUT.PL eat-FEM.SG.IMPERF <br>
 'I used to eat rice.' <br>
 [Assuming the pronominal subject here refers to a feminine entity]
 
-_(Since first and second person singular pronominals do not explicitly inflect for gender, in non-ergative contexts, verbal agreement in terms of gender is determined by the gender of the person being referred to. For instance, if a man uses the pronoun हांव hā̃v 'I', the verb must be inflected for the masculine gender; if a woman uses it, the verb must be inflected for the feminine. Similarly, when referring to someone using the pronoun तूं tũ 'you', the verb agrees with the gender of the addressee in non-ergative situations.)_
+_(Since first person, second person and reflexive singular pronominals do not explicitly inflect for gender, in non-ergative contexts, verbal agreement in terms of gender is determined by the gender of the person being referred to. For instance, if a man uses the pronoun हांव hā̃v 'I', the verb must be inflected for the masculine gender; if a woman uses it, the verb must be inflected for the feminine. Similarly, when referring to someone using the pronoun तूं tũ 'you', the verb agrees with the gender of the addressee in non-ergative situations.)_
 
 **तो माजराक जेवण दिता** <br>
 to mājrāk  j́evaṇ ditā <br>
