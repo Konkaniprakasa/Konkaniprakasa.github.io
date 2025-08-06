@@ -17,7 +17,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 
 &nbsp; **भुरगो	आंबो	खाता** <br>
 &nbsp; bʰurgo	āmbo	kʰātā <br>
-&nbsp; boy.MASC.SG	 mango.MASC.SG	 eat-SG.PRS <br>
+&nbsp; boy.MASC.SG	 mango.MASC.SG	 eat-SG.PRES <br>
 &nbsp; 'The boy eats mango.' <br>
 &nbsp; (_The simple present tense doesn't inflect for gender in Konkani_)
 
@@ -32,7 +32,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 &nbsp; 'The boy will eat a pancake.'
 
 &nbsp; **भुरगो	लाडू	खाय​त** <br>
-&nbsp; bʰurgo	lāḍu	kʰāit <br>
+&nbsp; bʰurgo	lāḍu	kʰāyt <br>
 &nbsp; boy.MASC.SG	laddoo.MASC.SG	eat-SG.FUT2 <br>
 &nbsp; 'The boy might  eat a laddo.' <br>
 &nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)<br>
@@ -58,7 +58,50 @@ As seen in the examples above, **_the verb agrees with the subject in terms of g
 
 As seen in these examples, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative (instrumental) case. 
 
-This split with regards to ergativity, however, does not occur with intransitive verbs, where the subject consistently appears in the nominative case regardless of tense or aspect and the verb always agrees with the subject.
+This split with regards to ergativity, however, does not occur with intransitive verbs, where the subject consistently appears in the nominative case regardless of tense or aspect and the verb always agrees with the subject in terms of gender and number.
+
+<ins> **Animacy and Inanimacy** </ins>
+
+* Direct objects that are animate (in the simplest of terms, living entities) are often marked with the accusative-
+
+  &nbsp; **चलयेन सुण्याक मारलो** <br>
+  &nbsp; calyen	suṇyāk	mārlo <br>
+  &nbsp; girl.FEM.SG-ERG	dog.MASC.SG-ACC	hit-MASC.SG.PST <br>
+  &nbsp; 'The girl hit the dog.' <br>
+
+  &nbsp; **बापायन धुवांक आपयल्यो** <br>
+  &nbsp; bāpāyn	dʰuvā̃ṅk	āpaylyo <br>
+  &nbsp; father.MASC.SG-ERG	daughters.MASC.PL-ACC	call-FEM.PL.PST <br>
+  &nbsp; 'The father called the daughters.' <br>
+
+  &nbsp; **शींव चितळाक खाता** <br>
+  &nbsp; śī̃v citaḷāk kʰātā <br>
+  &nbsp; lion.MASC.SG deer.MASC.SG-ACC eat-SG.PRES <br>
+  &nbsp; 'The lion eats the deer.' <br>
+
+* Direct objects that are inanimate (in the simplest of terms, non-living entities) are left unmarked-
+
+  &nbsp; **अस्तुरयेन फातर उडयलो** <br>
+  &nbsp; asturyen	pʰātar uḍaylo <br>
+  &nbsp; woman.FEM.SG-ERG	stone.MASC.SG	hit-MASC.SG.PST <br>
+  &nbsp; 'The women threw the stone.' <br>
+
+  &nbsp; **पुतान घर पळयिल्लें** <br>
+  &nbsp; putān gʰar paḷayillẽ <br>
+  &nbsp; son.MASC.SG-ERG	house.NEUT.SG	see-NEUT.SG.PLPRF <br>
+  &nbsp; ‘The son had seen the house.’ <br>
+
+  &nbsp; **धूव टिव्ही घेता** <br>
+  &nbsp; dʰūv ṭivʰi gʰetā <br>
+  &nbsp; daughter.FEM.SG	TV.MASC.SG	buy-SG.PRES <br>
+  &nbsp; ‘The daughter buys a TV.’ <br>
+
+
+
+
+
+
+
 
 
 
