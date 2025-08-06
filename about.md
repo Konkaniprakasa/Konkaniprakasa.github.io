@@ -6,7 +6,9 @@ layout: page
 
 <img src="/assets/images/IMG_4397-modified.png" alt="image" width="150" height="150" />
 
-I am Śaśā́ṅkaḣ (श॒शाङ्कः॑ /ɕɐɕɑ̈́ːŋkɐh/), a recent MS graduate (in Robotics & Autonomous Systems) from Boston University at Boston, USA. Prior to that, I got my BE degree in Electronics & Communication Engineering from BMS College of Engineering in Bangalore, India. I was born in Mangalore and raised in Bangalore, both being cities in the Indian state of Karnataka. Like many Konkani people I know, I share a deep bond with the Indian state of Goa— my ancestral homeland and the birthplace of my community (and also home to several of my close relatives). I make it a point to visit Goa regularly, especially its remote villages, where I get the opportunity to listen to pristine forms of Konkani, largely untouched by external influences.
+I am Śaśā́ṅkaḣ (श॒शाङ्कः॑ /ɕɐɕɑ̈́ːŋkɐh/), a recent MS graduate (in Robotics & Autonomous Systems) from Boston University at Boston, USA. Prior to that, I got my BE degree in Electronics & Communication Engineering from BMS College of Engineering in Bangalore, India. I was born in Mangalore and raised in Bangalore, both being cities in the Indian state of Karnataka. 
+
+Like many Konkani people I know, I share a deep bond with the Indian state of Goa— my ancestral homeland and the birthplace of my community (and also home to several of my close relatives). I make it a point to visit Goa regularly, especially its remote villages, where I get the opportunity to listen to pristine forms of Konkani, largely untouched by external influences.
 
 My native language (& the language I happen to be most fluent in) is Konkani [if that isn't already apparent :)]. With India being quite a multilingual country, I grew up in a pretty diverse environment enabling me to gain fluency in multiple languages such as Marathi, Hindi and Kannada. Additionally, I acquired working proficiency in languages such as Assamese, Nepali and Portuguese through self-study.
 
