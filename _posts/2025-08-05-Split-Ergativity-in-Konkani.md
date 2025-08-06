@@ -97,7 +97,7 @@ This split with regards to ergativity, however, does not occur with intransitive
   &nbsp; ‘The daughter buys a TV.’ <br>
 
 
-## Ergativite marking in Pronominals
+## Marking ergativity in Pronominals
 
 
 
