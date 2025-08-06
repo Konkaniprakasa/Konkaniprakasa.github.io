@@ -37,7 +37,7 @@ Taking different environments of the transitive verb खावंक kʰāuṅk�
 &nbsp; 'The boy might  eat a laddo.' <br>
 &nbsp; (_The second future tense also called indefinite future, doesn't inflect for gender in Konkani_)<br>
 
-As seen in the examples above, **_the verb agrees with the subject in terms of gender and number_** and the subject is in the nominative case. The direct objects here are left unmarked (usually accusative) because they are inanimate, more on that later.
+In the above examples, **_the verb agrees with the subject in terms of gender and number_** and the subject is in the nominative case. The direct objects here are left unmarked (usually accusative) because they are inanimate, more on that later.
 
 <ins> **Perfect or Preterite (Past) Environments:** </ins>
 
@@ -56,7 +56,7 @@ As seen in the examples above, **_the verb agrees with the subject in terms of g
 &nbsp; boy.MASC.SG-ERG mushrooms.NEUT.PL eat-NEUT.PL.PLPRF <br>
 &nbsp; 'The boy had eaten mushrooms.' <br>
 
-As seen in these examples, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative (instrumental) case. 
+In these examples above, **_the verb agrees with the direct object in terms of gender and number_** and the subject is in the ergative (instrumental) case. 
 
 This split with regards to ergativity, however, does not occur with intransitive verbs, where the subject consistently appears in the nominative case regardless of tense or aspect and the verb always agrees with the subject in terms of gender and number.
 
@@ -110,16 +110,20 @@ It is important to note that object case marking does not prevent the verb from 
 
 ## Marking Ergativity in Pronominals
 
-When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). Except for the 1st and 2nd person plural pronouns, ergativity is generally marked on all other pronominals.
+When pronominals function as the subject of a verb, ergativity is marked using an **_'ergative'_** case which derives from the instrumental case (that happens to be the case used on nominals to mark ergativity). **Except for the 1st and 2nd person plural pronouns**, ergativity is generally marked on all other pronominals.
 
-* **हांव**​ hā̃v + (INST. case) → **हांवेन**​ hā̃ven → **हांवें** hā̃vẽ (1p.SG)  <br>
-* **तूं**​ tũ + (INST. case) → **तुवेन​**​ tuven → **तुवें** tuvẽ (2p.SG) <br>
-* **तो** to + (INST. case) → **ताणेन​** tāṇen → **ताणें** tāṇẽ (3p.MASC.SG.DIST) <br>
-* **ती** ti + (INST. case) → **तिणेन​​** tiṇen → **तिणें** tiṇẽ (3p.FEM.SG.DIST) <br>
-* **हो** ho + (INST. case) → **हाणेन​** hāṇen → **हाणें** hāṇẽ (3p.MASC.SG.PROX) <br>
-* **ही** hi + (INST. case) → **हिणेन​​** hiṇen → **हिणें** hiṇẽ (3p.FEM.SG.PROX) <br>
+* **हांव**​ hā̃v + [INST. case] → **हांवेन**​ hā̃ven → **हांवें** hā̃vẽ (1p.SG)  <br>
+* **तूं**​ tũ + [INST. case] → **तुवेन​**​ tuven → **तुवें** tuvẽ (2p.SG) <br>
+* **तो** to + [INST. case] → **ताणेन​** tāṇen → **ताणें** tāṇẽ (3p.MASC.SG.DIST) <br>
+* **ती** ti + [INST. case] → **तिणेन​​** tiṇen → **तिणें** tiṇẽ (3p.FEM.SG.DIST) <br>
+* **हो** ho + [INST. case] → **हाणेन​** hāṇen → **हाणें** hāṇẽ (3p.MASC.SG.PROX) <br>
+* **ही** hi + [INST. case] → **हिणेन​​** hiṇen → **हिणें** hiṇẽ (3p.FEM.SG.PROX) <br>
+* **ते** te + [INST. case] → **ताणीन​​** tāṇin → **ताणीं** tāṇĩ (3p.PL.DIST) <br>
+* **हे** he + [INST. case] → **हाणीन​​** hāṇin → **हाणीं** hāṇĩ (3p.PL.PROX) <br>
 
 _(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_
+
+Other details regarding split ergativity are largely same as the nominals discussed above.
 
 
 
