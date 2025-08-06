@@ -6,7 +6,7 @@ layout: post
 
 In general, a verb is said to be _intransitive_ (or अकर्मक​ akarmaka in the **_Indic grammatical tradition_**) when it does not require a direct object (कर्म karma) to express a complete action. On the other hand, a verb is said to be _transitive_ (or सकर्मक​ sakarmaka) when it requires a direct object to express a complete action.
 
-## What is Split-ergativity?
+## What is Split Ergativity?
 Split ergativity is a phenomenon in some languages where _ergative-absolutive alignment_ is used in certain contexts, while _nominative-accusative alignment_ is used in others.
 
 Konkani shows split-ergativity i.e., it shows both nominative-accusative and ergative-absolutive alignments.  In the ergative-absolutive alignment, the subject of a transitive verb [_in perfective and preterite (past) environments_] takes the ergative marking [_which is identical to the instrumental case for nominals and a derivative of the instrumental case for pronominals_] rather than the nominative-accusative marking  in the case of subject of instransitive verbs [and other environments of transitive verbs]. This alignment results in the verb then agreeing with the object instead of the subject in terms of gender and number.
