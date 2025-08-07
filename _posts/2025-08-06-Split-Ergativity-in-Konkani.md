@@ -81,7 +81,7 @@ This split with regards to ergativity, however, does not occur with intransitive
   &nbsp; 'The father called the daughters.' <br>
 
   &nbsp; **शींव चितळाक खाता** <br>
-  &nbsp; śī̃v citaḷāk kʰātā <br>
+  &nbsp; śī̃v ćitaḷāk kʰātā <br>
   &nbsp; lion.MASC.SG deer.MASC.SG-ACC eat-SG.PRES <br>
   &nbsp; 'The lion eats the deer.' <br>
 
