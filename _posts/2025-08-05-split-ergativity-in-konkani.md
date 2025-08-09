@@ -15,7 +15,7 @@ There's a third category called _ditransitive_ which are verbs that take a direc
 ## What is Split Ergativity?
 Split ergativity is a phenomenon in some languages where _ergative-absolutive alignment_ is used in certain contexts, while _nominative-accusative alignment_ is used in others.
 
-Konkani shows split-ergativity i.e., it shows both nominative-accusative and ergative-absolutive alignments.  In the ergative-absolutive alignment, the subject of a transitive verb [_in perfective and preterite (past) environments_] takes the ergative marking [_which is identical to the instrumental case for nominals and a derivative of the instrumental case for pronominals_] rather than the nominative-accusative marking  in the case of subject of instransitive verbs [and other environments of transitive verbs]. This alignment results in the verb then agreeing with the object instead of the subject in terms of gender and number.
+Konkani shows split-ergativity i.e., it shows both nominative-accusative and ergative-absolutive alignments.  In the ergative-absolutive alignment, the subject of a transitive verb [_in perfective and preterite (past) environments_] takes the ergative marking [_which is identical to the instrumental case for nominals and a derivative of the instrumental case for pronominals_] rather than the nominative-accusative marking  in the case of subject of intransitive verbs [and other environments of transitive verbs]. This alignment results in the verb then agreeing with the object instead of the subject in terms of gender and number.
 
 Taking different environments of the transitive verb खावंक kʰāuṅk​ 'to eat' for the first few examples-
 
@@ -187,10 +187,9 @@ they-3p.PL.PROX-ERG needles.FEM.PL bring-FEM.PL.PST <br>
 'They brought needles.'<br>
 
 **आपणें घर घेतलां** <br>
-āpṇẽ gʰar gʰetlā̃ <br>
+āpṇẽ gʰar gʰetlā̃ <br>
 I-1p.SG.RFLX-ERG house.NEUT.SG bought-NEUT.SG.PRF <br>
 'I (myself) have bought a house.'<br>
-
 
 _(Since the pronominal subjects in the five examples above are all marked with the ergative case, the transitive verb agrees with the direct object in terms of gender and number)_ <br>
 
