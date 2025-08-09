@@ -1,5 +1,5 @@
 ---
-title:  "Umalut & some Konkani plurals"
+title:  "Umlaut & some Konkani plurals"
 layout: post
 ---
 
