@@ -1,5 +1,5 @@
 ---
-title:  "Split Ergativity in Konkani"
+title:  "Umalut & some Konkani plurals"
 layout: post
 ---
 
