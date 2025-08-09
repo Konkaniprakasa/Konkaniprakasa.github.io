@@ -131,7 +131,7 @@ When pronominals function as the subject of a verb, ergativity is marked using a
 
 _(The final -न -n in all these cases hops onto the preceeding vowel nasalizing it)_ <br>
 
-_(स्वयें svayẽ seems to be the ergative of a स्वयम् svayam form rather than being the ergative of स्वता svatā, however, svayam is not used in Konkani)_
+(स्वयें svayẽ seems to be the ergative of a स्वयम् svayam form rather than being the ergative of स्वता svatā, however, svayam is not used in Konkani)
 
 Other details regarding split ergativity are largely same as the nominals discussed above. Some illustrative examples-
 
