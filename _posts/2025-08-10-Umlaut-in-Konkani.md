@@ -70,25 +70,25 @@ Some other illustrative examples-
 
 There are two special cases of this umlaut that create a semantic distinction (beyond simple pluralization). Interestingly, both examples represent fruit-tree pairs.
 
-> &nbsp; 'jujube fruit' (n.sg) [_Ziziphus jujuba_] <br>
-> &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
-> &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
->
 > &nbsp; 'jujube tree' (f.sg) <br>
 > &nbsp; **बदरी‌ → <sup>+</sup>बअरी → <sup>+</sup>बोरि → बोरि → बोर​** <br>
 > &nbsp; badarī → baarī → <sup>+</sup>bori → bori [boɾi] → bor [boɾ] <br>
 >
-> **A snippet from Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-**
-> <img src = "/assets/images/jujube.png" />
+> &nbsp; 'jujube fruit' (n.sg) [_Ziziphus jujuba_] <br>
+> &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
+> &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
+>
+> &nbsp; **A snippet from Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-**
+> &nbsp; <img src = "/assets/images/jujube.png" />
 
 The next example is particularly intriguing, as it demonstrates the extension of this umlaut system even to two loanwords from Portuguese.
 
-> &nbsp; 'guava fruit' (n.sg) [_Psidium guajava_] <br>
-> &nbsp; **<ins>Portuguese</ins> pera /peɾɐ/ → <sup>+</sup>पेर​ péra [pɛɾə] → पेर​ pér [pɛɾ]** <br>
->
 > &nbsp; 'guava tree' (f.sg) <br>
 > &nbsp; **<ins>Portuguese</ins> pereira /peɾɐjɾɐ ~ pɨɾɐjɾɐ/ → <sup>+</sup>पेरि peri [peɾi] → पेर per [peɾ]** <br>
 >
-> **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
-> <img src = "/assets/images/dictionary_image.png" />
+> &nbsp; 'guava fruit' (n.sg) [_Psidium guajava_] <br>
+> &nbsp; **<ins>Portuguese</ins> pera /peɾɐ/ → <sup>+</sup>पेर​ péra [pɛɾə] → पेर​ pér [pɛɾ]** <br>
+>
+> &nbsp; **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
+> &nbsp; <img src = "/assets/images/dictionary_image.png" />
 
