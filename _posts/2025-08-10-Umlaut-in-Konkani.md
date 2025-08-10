@@ -43,6 +43,7 @@ Some other illustrative examples-
 >
 > **[Note- Some varieties of Konkani drop the final -w and have the [gʱo] vs [gʱɔ] contrast]**
 
+[<sup>+</sup> = unattested or reconstructed]
 
 > &nbsp; 'brother-in-law' (m.sg) <br>
 > &nbsp; **देवरः → देवरो → देअरु → देरु ​→ देर​** <br>
