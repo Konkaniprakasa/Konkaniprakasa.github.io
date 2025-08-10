@@ -49,6 +49,7 @@ Some other illustrative examples-
 > &nbsp; **देवराः → देवरा → देअर → देर ​→ देर​** <br>
 > &nbsp; dēvarāḣ → dēvarā → deara → déra [d̻ɛɾə] → dér [d̻ɛɾ] 
 
+
 > &nbsp; 'hair' (m.sg) <br>
 > &nbsp; **केशः → केसो → केसु → केंसु → केंस​** <br>
 > &nbsp; kēśaḣ → kēsō → kesu → kẽsu [kẽsu] → kẽs [kẽs]
@@ -57,6 +58,7 @@ Some other illustrative examples-
 > &nbsp; **केशाः → केसा → केस → केंस → केंस​​** <br>
 > &nbsp; kēśāḣ → kēśā → kesa → kẽ́sa [kɛ̃sə] → kẽ́s [kɛ̃s]
 
+
 > &nbsp; 'boy' (m.sg) <br>
 > &nbsp; **<sup>+</sup>पोतरः → पोअरो → <sup>+</sup>पोरु →  पोरु → पोर​** <br>
 > &nbsp; <sup>+</sup>pōtaraḣ → pōarō → <sup>+</sup>poru → poru [poɾu] → por [poɾ]
@@ -64,15 +66,14 @@ Some other illustrative examples-
 > &nbsp; 'boys' (m.pl) <br>
 > &nbsp; **<sup>+</sup>पोतराः → पोअरा → <sup>+</sup>पोर​ → पोर​ → पोर​​** <br>
 > &nbsp; <sup>+</sup>pōtarāḣ → pōarā → <sup>+</sup>pora → póra [pɔɾə] → pór [pɔɾ]
->
-> _(Note- This word can be both masculine and neuter in Konkani)_
+
 
 There are two special cases of this umlaut that create a semantic distinction (beyond simple pluralization). Interestingly, both examples represent fruit-tree pairs.
 
 > &nbsp; 'jujube fruit' (n.sg) [_Ziziphus jujuba_] <br>
 > &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
 > &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
-
+>
 > &nbsp; 'jujube tree' (f.sg) <br>
 > &nbsp; **बदरी‌ → <sup>+</sup>बअरी → <sup>+</sup>बोरि → बोरि → बोर​** <br>
 > &nbsp; badarī → baarī → <sup>+</sup>bori → bori [boɾi] → bor [boɾ] <br>
