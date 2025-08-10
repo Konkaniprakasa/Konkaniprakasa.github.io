@@ -1,12 +1,11 @@
 ---
 title:  "Umlaut in some Konkani plurals"
-mathjax: true
 layout: post
 ---
-In Konkani, there are certain words whose plural forms are identical to their singular forms, differing only in vowel quality (with singular forms containing the **_'closed’_** vowel and plural forms containing the **_‘open’_** vowel). For example: **चोर** [t͡soɾ] ‘thief’ (m.sg) ↔ **चोर** [t͡sɔɾ] ‘thieves’ (m.pl) & **पोर** [poɾ] ‘boy’ (m.sg) ↔ **पोर** [pɔɾ] ‘boys’ (m.pl). How did this come about? A diachronic linguistic process called umlaut is to blame!
+In Konkani, there are certain words whose plural forms are identical to their singular forms, differing only in vowel quality, with singular forms containing the **_'closed’_** vowel and plural forms containing the **_‘open’_** vowel. For example: **चोर** [t͡soɾ] ‘thief’ (m.sg) ↔ **चोर** [t͡sɔɾ] ‘thieves’ (m.pl) & **पोर** [poɾ] ‘boy’ (m.sg) ↔ **पोर** [pɔɾ] ‘boys’ (m.pl). How did this come about? A diachronic linguistic process called umlaut is to blame!
 
 ## What is Umlaut?
-Umlaut is a type of assimilation, a linguistic process in which one sound changes to become more similar to a neighboring sound, either to ease pronunciation and/or to mark a semantic distinction. It often affects the nature of vowels in a language and is the reason English has forms like _foot–feet_ and _mouse–mice_ (we call this *Germanic Umlaut*).
+Umlaut is a type of assimilation, a linguistic process in which one sound changes to become more similar to a neighboring sound, either to ease pronunciation and/or to mark a semantic distinction. It often affects the nature of vowels in a language and is the reason English has forms like _foot–feet_ and _mouse–mice_ (we call this *'Germanic Umlaut'*).
 
 ## Diachronic Konkani Umlaut
 The Konkani umlaut can be defined as follows: When a word contained either the _close-mid front_ [e] or _close-mid back_ [o]  followed by the _close back_ [u] (or the _close front_ [i]) in the next syllable, the preceding vowels remained unchanged. When the same vowels were followed by the _mid central_ [ə], they were lowered (or opened) to _open-mid_ [ɛ] and [ɔ] respectively. 
