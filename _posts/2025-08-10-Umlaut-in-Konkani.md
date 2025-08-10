@@ -87,7 +87,7 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; **<ins>Portuguese</ins> pereira /peɾɐjɾɐ ~ pɨɾɐjɾɐ/ → <sup>+</sup>पेरि peri [peɾi] → पेर per [peɾ]** <br>
 >
 > **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
-
-![image](https://imgur.com/a/bbqKQrO)
+>
+> <img src = "/assets/images/dictionary_image.png" width="300" height="200" />
 
 
