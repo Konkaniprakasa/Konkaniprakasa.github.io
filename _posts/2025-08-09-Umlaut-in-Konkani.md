@@ -69,9 +69,9 @@ There are two special cases of this umlaut that create a semantic distinction (b
 
 The next example is particularly intriguing, as it demonstrates the extension of this umlaut system even to two loanwords from Portuguese.
 
-> &nbsp; 'pear fruit', 'guava fruit' (n.sg) [_Pyrus communis, Psidium guajava] <br>
+> &nbsp; 'pear fruit', 'guava fruit' (n.sg) [_Pyrus communis, Psidium guajava_] <br>
 > &nbsp; **Portuguese pera /peɾɐ/ → <sup>+</sup>पेर​ péra [pɛɾə] → पेर​ pér [pɛɾ]** <br>
 >
-> &nbsp; 'pear tree, guava tree' (f.sg) <br>
+> &nbsp; 'pear tree, 'guava tree' (f.sg) <br>
 > &nbsp; **Portuguese pereira /peɾɐjɾɐ ~ pɨɾɐjɾɐ/ → <sup>+</sup>पेरि peri [peɾi] → पेर per [peɾ]** <br>
 
