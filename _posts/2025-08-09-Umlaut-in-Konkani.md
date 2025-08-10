@@ -47,6 +47,14 @@ Some other illustrative examples-
 > &nbsp; **देवराः → देवरा → देअर → देर ​→ देर​** <br>
 > &nbsp; dēvarāḣ → dēvarā → deara → déra [d̻ɛɾə] → dér [d̻ɛɾ]
 
+> &nbsp; 'hair' (m.sg) <br.>
+> &nbsp; **केशः → केसो → केसु → केंसु → केंस​** <br>
+> &nbsp; kēśaḣ → kēsō → kesu → kẽsu [kẽsu] → kẽs [kẽs]
+>
+> &nbsp; 'hair' (m.pl) <br>
+> &nbsp; **केशाः → केसा → केस → केंस → केंस​​** <br>
+> &nbsp; kēśāḣ → kēśā → kesa → kẽ́sa [kɛ̃sə] → kẽ́s [kɛ̃s]
+
 > &nbsp; 'boy' (m.sg) <br>
 > &nbsp; **<sup>+</sup>पोतरः → पोअरो → <sup>+</sup>पोरु →  पोरु → पोर​** <br>
 > &nbsp; <sup>+</sup>pōtaraḣ → pōarō → <sup>+</sup>poru → poru [poɾu] → por [poɾ]
