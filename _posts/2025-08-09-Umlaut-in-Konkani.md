@@ -9,7 +9,7 @@ In Konkani, there are certain words whose plural forms are identical to their si
 Umlaut is a type of assimilation, a linguistic process in which one sound changes to become more similar to a neighboring sound, either to ease pronunciation and/or to mark a semantic distinction. It often affects the nature of vowels in a language and is the reason English has forms like _foot–feet_ and _mouse–mice_ (we call this *Germanic Umlaut*).
 
 ## Diachronic Konkani Umlaut
-The Konkani umlaut can be defined as follows: When a word contained either the _close-mid front_ [e] or _close-mid back_ [o]  followed by the _close back_ [u] (or the close front [i]) in the next syllable, the preceding vowels remained unchanged. When the same vowels were followed by the _mid central_ [ə], they were lowered (or opened) to _open-mid_ [ɛ] and [ɔ] respectively. 
+The Konkani umlaut can be defined as follows: When a word contained either the _close-mid front_ [e] or _close-mid back_ [o]  followed by the _close back_ [u] (or the _close front_ [i]) in the next syllable, the preceding vowels remained unchanged. When the same vowels were followed by the _mid central_ [ə], they were lowered (or opened) to _open-mid_ [ɛ] and [ɔ] respectively. 
 
 [This could indicate that the Konkani **_'schwa'_** is realized closer to the _open-mid vowel_ [ɜ].]
 
