@@ -10,7 +10,8 @@ Umlaut is a type of assimilation, a linguistic process in which one sound change
 ## Diachronic Konkani Umlaut
 The Konkani umlaut can be defined as follows: When a word contained either the _close-mid front_ [e] or _close-mid back_ [o]  followed by the _close back_ [u] (or the _close front_ [i]) in the next syllable, the preceding vowels remained unchanged. When the same vowels were followed by the _mid central_ [ə], they were lowered (or opened) to _open-mid_ [ɛ] and [ɔ] respectively. 
 
-[This could indicate that the Konkani **'schwa'** is realized closer to the _open-mid vowel_ [ɜ].]
+{This could indicate that the Konkani **'schwa'** is realized closer to the _open-mid vowel_ [ɜ].}
+
 
 Once the umlaut process was established and vowel qualities shifted, the distinction between close-mid & open-mid vowels persisted regardless of whether [u] or [ə] were retained or dropped.
 
@@ -95,9 +96,15 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; _In Portuguese pera & pereira refer to the pear fruit & tree._ <br>
 > &nbsp; _In Konkani it refers to the guava fruit & tree._
 
-## Concluding Remarks
 
+## Concluding Remarks
 This umlaut likely occurred quite early in Konkani’s history, probably between the Apabhramsha stage and the Old Konkani stage (what could be termed the **"proto-Konkani"** period). I base this view on its presence in almost all varieties of Konkani, including those preserved by descendants of speakers who migrated southwards in the 16th and 17th centuries, after Portuguese control over Goa had solidified.
+
+Umlaut may also have been a key factor in the emergence of the open-mid vowels [ɛ] and [ɔ] in Konkani. It is possible that proto-Konkani <sup>+</sup>e and <sup>+</sup>o split into close-mid [e], [o] and open-mid [ɛ], [ɔ], subsequently spreading to different phonological environments within the language. However, it would be premature to draw a definitive conclusion on this point without further investigation.
+
+Now you know why some words in Konkani have unique plural forms!
+
+
 
 
 
