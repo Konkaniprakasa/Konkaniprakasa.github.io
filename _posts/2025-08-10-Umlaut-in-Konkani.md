@@ -78,7 +78,7 @@ There are two special cases of this umlaut that create a semantic distinction (b
 > &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
 > &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
 >
-> &nbsp; **A snippet from Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-**
+> &nbsp; **A snippet from Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
 > &nbsp; <img src = "/assets/images/jujube.png" />
 
 The next example is particularly intriguing, as it demonstrates the extension of this umlaut system even to two loanwords from Portuguese.
