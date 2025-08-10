@@ -58,3 +58,9 @@ Some other illustrative examples-
 > _(Note- This word can be both masculine and neuter in Konkani)_
 
 There are two special cases of this umlaut that create a semantic distinction (beyond simple pluralization). Interestingly, both examples represent fruit-tree pairs.
+
+> &nbsp; 'jujube fruit' (n.sg) [_Ziziphus jujuba_] <br>
+> &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
+> &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
+
+> 
