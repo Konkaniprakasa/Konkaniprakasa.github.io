@@ -38,7 +38,7 @@ Some other illustrative examples-
 > &nbsp; **गोहाः → गोहा → <sup>+</sup>घोअ → घोव → घोव​​** <br>
 > &nbsp; gōhāḣ → gōhā → <sup>+</sup>gʰoa → gʰowa [gʱɔʋə] → gʰów [gʱɔʋ]
 >
-> **[Note- Some varieties of Konkani drop the final -w and have [gʱo] & [gʱɔ] constrast]**
+> **[Note- Some varieties of Konkani drop the final -w and have the [gʱo] vs [gʱɔ] contrast]**
 
 
 > &nbsp; 'brother-in-law' (m.sg) <br>
