@@ -66,3 +66,5 @@ There are two special cases of this umlaut that create a semantic distinction (b
 > &nbsp; 'jujube tree' (f.sg) <br>
 > &nbsp; **बदरी‌ → <sup>+</sup>बअरी → <sup>+</sup>बोरि → बोरि → बोर​** <br>
 > &nbsp; badarī → baarī → <sup>+</sup>bori → bori [boɾi] → bor [boɾ] <br>
+
+The next example is particularly intriguing, as it demonstrates the extension of this umlaut system even to a loanword from Portuguese.
