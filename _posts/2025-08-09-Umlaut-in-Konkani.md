@@ -12,7 +12,7 @@ The Konkani umlaut can be defined as follows: When a word contained either the _
 
 [This could indicate that the Konkani **_'schwa'_** is realized closer to the _open-mid vowel_ [ɜ].]
 
-Once the umlaut process was established and vowel qualities shifted, the distinction between close-mid & open-mid vowels persisted regardless of whether [u] or [ə] were retained or lost.
+Once the umlaut process was established and vowel qualities shifted, the distinction between close-mid & open-mid vowels persisted regardless of whether [u] or [ə] were retained or dropped.
 
 Let us look at some examples to understand how this happened-
 
