@@ -14,7 +14,7 @@ The Konkani umlaut can be defined as follows: When a word contained either the _
 
 Once the umlaut process was established and vowel qualities shifted, the distinction between close-mid & open-mid vowels persisted regardless of whether [u] or [ə] were retained or dropped.
 
-<img src="/assets/images/vowels.png" width = "400" height = "400" /> <br>
+<img src="/assets/images/konkani.png" width = "400" height = "400" /> <br>
 ***Image- Vowels in Konkani***
 
 Let us look at some examples to understand how this happened-
