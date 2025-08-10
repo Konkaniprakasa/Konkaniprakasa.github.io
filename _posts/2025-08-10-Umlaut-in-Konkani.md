@@ -89,6 +89,7 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; 'guava fruit' (n.sg) [_Psidium guajava_] <br>
 > &nbsp; **<ins>Portuguese</ins> pera /peɾɐ/ → <sup>+</sup>पेर​ péra [pɛɾə] → पेर​ pér [pɛɾ]** <br>
 >
-> &nbsp; **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
+> &nbsp; **In Portuguese, pera and pereira refer to the pear fruit and tree respectively.** <br>
+> &nbsp; **But in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
 > &nbsp; <img src = "/assets/images/dictionary_image.png" />
 
