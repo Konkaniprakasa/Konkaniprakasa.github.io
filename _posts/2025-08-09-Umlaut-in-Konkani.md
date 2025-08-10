@@ -72,6 +72,6 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; 'pear fruit', 'guava fruit' (n.sg) [_Pyrus communis, Psidium guajava_] <br>
 > &nbsp; **<ins>Portuguese</ins> pera /peɾɐ/ → <sup>+</sup>पेर​ péra [pɛɾə] → पेर​ pér [pɛɾ]** <br>
 >
-> &nbsp; 'pear tree, 'guava tree' (f.sg) <br>
+> &nbsp; 'pear tree', 'guava tree' (f.sg) <br>
 > &nbsp; **<ins>Portuguese</ins> pereira /peɾɐjɾɐ ~ pɨɾɐjɾɐ/ → <sup>+</sup>पेरि peri [peɾi] → पेर per [peɾ]** <br>
 
