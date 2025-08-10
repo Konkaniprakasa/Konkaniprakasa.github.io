@@ -57,4 +57,4 @@ Some other illustrative examples-
 >
 > _(Note- This word can be both masculine and neuter in Konkani)_
 
-There are two special cases of this umlaut that create a semantic distinction (beyond simple pluralization) between a pair of similar words. Interestingly, both examples represent fruit-tree pairs.
+There are two special cases of this umlaut that create a semantic distinction (beyond simple pluralization). Interestingly, both examples represent fruit-tree pairs.
