@@ -92,5 +92,5 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; **A Snippet Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
 > &nbsp; <img src = "/assets/images/dictionary_image.png" />
 >
-> _In Portuguese pera & pereira refer to the pear fruit & tree. In Konkani it refers to the guava fruit & tree._
+> &nbsp; _In Portuguese pera & pereira refer to the pear fruit & tree. In Konkani it refers to the guava fruit & tree._
 
