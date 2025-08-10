@@ -63,4 +63,6 @@ There are two special cases of this umlaut that create a semantic distinction (b
 > &nbsp; **बदरम्‌ → बअरं → <sup>+</sup>बोर → बोर → बोर​** <br>
 > &nbsp; bádaram → baaraṁ → <sup>+</sup>bora → bóra [bɔɾə] → bór [bɔɾ] <br>
 
-> 
+> &nbsp; 'jujube tree' (f.sg) <br>
+> &nbsp; **बदरी‌ → <sup>+</sup>बअरी → <sup>+</sup>बोरि → बोरि → बोर​** <br>
+> &nbsp; badarī → baarī → <sup>+</sup>bori → bori [boɾi] → bor [boɾ] <br>
