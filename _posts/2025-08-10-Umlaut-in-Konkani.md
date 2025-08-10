@@ -88,5 +88,5 @@ The next example is particularly intriguing, as it demonstrates the extension of
 >
 > **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
 >
-> <img src = "/assets/images/dictionary_image.png" width="100" height="50" />
+> <img src = "/assets/images/dictionary_image.png" width="150" height="100" />
 
