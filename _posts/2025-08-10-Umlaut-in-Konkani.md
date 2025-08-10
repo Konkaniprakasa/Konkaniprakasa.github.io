@@ -95,3 +95,9 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; _In Portuguese pera & pereira refer to the pear fruit & tree._ <br>
 > &nbsp; _In Konkani it refers to the guava fruit & tree._
 
+## Concluding Remarks
+
+This umlaut likely occurred quite early in Konkani’s history, probably between the Apabhramsha stage and the Old Konkani stage (what could be termed the **"proto-Konkani"** period). I base this view on its presence in almost all varieties of Konkani, including those preserved by descendants of speakers who migrated southwards in the 16th and 17th centuries, after Portuguese control over Goa had solidified.
+
+
+
