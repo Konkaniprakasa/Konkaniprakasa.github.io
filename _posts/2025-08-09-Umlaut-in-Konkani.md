@@ -45,9 +45,9 @@ Some other illustrative examples-
 >
 > &nbsp; 'brothers-in-law' (m.pl) <br>
 > &nbsp; **देवराः → देवरा → देअर → देर ​→ देर​** <br>
-> &nbsp; dēvarāḣ → dēvarā → deara → déra [d̻ɛɾə] → dér [d̻ɛɾ]
+> &nbsp; dēvarāḣ → dēvarā → deara → déra [d̻ɛɾə] → dér [d̻ɛɾ] 
 
-> &nbsp; 'hair' (m.sg) <br.>
+> &nbsp; 'hair' (m.sg) <br>
 > &nbsp; **केशः → केसो → केसु → केंसु → केंस​** <br>
 > &nbsp; kēśaḣ → kēsō → kesu → kẽsu [kẽsu] → kẽs [kẽs]
 >
