@@ -78,6 +78,7 @@ There are two special cases of this umlaut that create a semantic distinction (b
 > &nbsp; **बदरी‌ → <sup>+</sup>बअरी → <sup>+</sup>बोरि → बोरि → बोर​** <br>
 > &nbsp; badarī → baarī → <sup>+</sup>bori → bori [boɾi] → bor [boɾ] <br>
 >
+> **A snippet from Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-**
 > <img src = "/assets/images/jujube.png" />
 
 The next example is particularly intriguing, as it demonstrates the extension of this umlaut system even to two loanwords from Portuguese.
@@ -89,6 +90,5 @@ The next example is particularly intriguing, as it demonstrates the extension of
 > &nbsp; **<ins>Portuguese</ins> pereira /peɾɐjɾɐ ~ pɨɾɐjɾɐ/ → <sup>+</sup>पेरि peri [peɾi] → पेर per [peɾ]** <br>
 >
 > **In Portuguese, pera and pereira refer to the pear fruit and tree respectively but in Konkani they refer to the Guava fruit and tree as indicated by Monsignor Sebastião Dalgado's Konkani-Portuguese dictionary-** <br>
->
 > <img src = "/assets/images/dictionary_image.png" />
 
