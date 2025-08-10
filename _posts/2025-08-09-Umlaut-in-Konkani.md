@@ -10,7 +10,7 @@ Umlaut is a type of assimilation, a linguistic process in which one sound change
 ## Diachronic Konkani Umlaut
 The Konkani umlaut can be defined as follows: When a word contained either the _close-mid front_ [e] or _close-mid back_ [o]  followed by the _close back_ [u] (or the _close front_ [i]) in the next syllable, the preceding vowels remained unchanged. When the same vowels were followed by the _mid central_ [ə], they were lowered (or opened) to _open-mid_ [ɛ] and [ɔ] respectively. 
 
-[This could indicate that the Konkani **_'schwa'_** is realized closer to the _open-mid vowel_ [ɜ].]
+[This could indicate that the Konkani **'schwa'** is realized closer to the _open-mid vowel_ [ɜ].]
 
 Once the umlaut process was established and vowel qualities shifted, the distinction between close-mid & open-mid vowels persisted regardless of whether [u] or [ə] were retained or dropped.
 
@@ -26,7 +26,7 @@ Let us look at some examples to understand how this happened-
 >
 > **[Note how the final vowels dropped, yet the vowel changes caused by umlaut persist.]**
 
-[Stages are in the following order- **_Sanskrit (OIA) → Prakrit (Early MIA) → Apabhramsha (Late MIA) → Old-Konkani (Early NIA) → Konkani (NIA)_**]
+[Stages are in the following order- **Sanskrit (OIA) → Prakrit (Early MIA) → Apabhramsha (Late MIA) → Old-Konkani (Early NIA) → Konkani (NIA)**]
 
 Some other illustrative examples-
 
