@@ -101,7 +101,7 @@ The next example is particularly intriguing, as it demonstrates the extension of
 
 
 ## Concluding Remarks
-This umlaut likely occurred quite early in Konkani’s history, probably between the Apabhramsha stage and the Old Konkani stage (what could be termed the **"proto-Konkani"** period). I base this view on its presence in almost all varieties of Konkani, including those preserved by descendants of speakers who migrated southwards in the 16th and 17th centuries, after Portuguese control over Goa had solidified.
+This umlaut likely occurred quite early in Konkani’s history, probably between the Apabhramsha stage and the Old Konkani stage (what could be termed the **"proto-Konkani"** period). I base this view on its presence in almost all varieties of Konkani, including those preserved by descendants of speakers who migrated southwards in the 16th and 17th centuries C.E., after Portuguese control over Goa had solidified.
 
 Umlaut may also have been a key factor in the emergence of the open-mid vowels [ɛ] and [ɔ] in Konkani. It is possible that proto-Konkani <sup>+</sup>e and <sup>+</sup>o split into close-mid [e], [o] and open-mid [ɛ], [ɔ], subsequently spreading to different phonological environments within the language. However, it would be premature to draw a definitive conclusion on this point without further investigation.
 
