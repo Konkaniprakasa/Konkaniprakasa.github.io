@@ -21,7 +21,7 @@ asmā́bʰiḣ → amʰēhiṁ → amʰēiṁ → <sup>!</sup>āmʰiṁ → ā
 The 2sɢ = **tũ** तूं /ˈt̻ũ(ː)/ “thou”, derives from Sanskrit 2ɴᴏᴍ.sɢ tᵤvám त्व॒म् via Prakrit tuhaṁ तुहं which continued in Apabhramsha as tuhaṁ or tuvaṁ तुहं/तुवं [cf. Marathi tu तू, Hindi tū तू, Punjabi tū̃ ਤੂੰ]. Interestingly some varieties of Konkani have this pronominal as tũva तुंव [ˈt̻ũʋə ~ ˈt̻ũʋə̃ ~ ˈt̻ũə̃] which is perhaps a conservatism. The 2ᴘʟ = **tumĩ** तुमीं /ˈt̻umĩ(ː)/ “you” derives from Sanskrit ɪɴsᴛ.ᴘʟ <sup>!</sup>tuṣmā́bʰiḣ <sup>!</sup>तु॒ष्माभिः॑ (the general form being yuṣmā́bʰiḣ यु॒ष्माभिः॑) via Prakrit tumʰēhiṁ तुम्हेहिं via Apabhramsha tumʰeiṁ तुम्हेइं (attested southern form is tumʰaiṁ तुम्हइं)[cf. tumʰi तुम्ही, Old Gujarati tumʰe તુમ્હે, Assamese tumi তুমি, Hindi tum तुम​]. The [t] here is in analogy the singular and is a pretty common thing throughout middle Indo-Aryan.
 
 tᵤvám → tuhaṁ → tuhaṁ → <sup>!</sup>tuaṁ → tũ <br>
-yuṣmā́bʰiḣ ⟿ <sup>!</sup>tuṣmā́bʰiḣ→ tumʰēhiṁ → tumʰēiṁ → <sup>!</sup>tumʰiṁ → tumĩ <br>
+yuṣmā́bʰiḣ ⟿ <sup>!</sup>tuṣmā́bʰiḣ→ tumʰēhiṁ → tumʰēiṁ → <sup>!</sup>tumʰiṁ → tumĩ <br>
 
 (The Prakrit form tumʰēhiṁ  could suggest a previous form <sup>!</sup>tuṣmēbʰiḣ)
 
