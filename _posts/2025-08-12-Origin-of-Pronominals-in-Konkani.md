@@ -8,3 +8,5 @@ I recently wrote a **"mega thread"** (one of the longest Twitter/X threads I hav
 <img src= "/assets/images/Screenshot 2025-08-12 143550.png">
 
 ## Origin of personal pronominals in Konkani
+
+Starting with 1sɢ = hā̃v हांव /ˈɦä̃ʋ/ “I” derives from Sanskrit 1ɴᴏᴍ.sɢ ahakam अहकम्  (the general form being ahám अ॒हम्) via Prakrit ahaaṁ अहअं via Apabhramsha haüṁ हउं  ( cf. Gujarati hũ હું, Braj ha͠u हौं , Sindhi a̅ū̃ آئُون आऊँ ).
