@@ -45,7 +45,7 @@ ētē → ēē → e → he <br>
 ētāḣ → ēyāō → <sup>!</sup>eyao → <sup>!</sup>eyo → <sup>!</sup>heyo → hyo <br>
 ētāni → ēyāiṁ → eyaiṁ → <sup>!</sup> eaiṁ → <sup>!</sup> heiṁ → hĩ <br>
 
-The 3ᴘʟ.ᴍ-ᴅɪsᴛ =  **te** ते /ˈt̻e/ “they” derives from Sanskrit 3ɴᴏᴍ.ᴘʟ.ᴍ-ᴅɪsᴛ tē ते via Prakrit tē ते via Apabhramsha te ते. The 3ᴘʟ.ғ-ᴅɪsᴛ = **tyo** त्यो /ˈt̻jo/ “they” is probably an analogous formation to hyo described above. The 3ᴘʟ.ɴ-ᴅɪsᴛ = **tĩ** तीं /ˈ ˈt̻ĩ(ː)/ “they” derives from Sanskrit 3ɴᴏᴍ.ᴘʟ. ɴ-ᴅɪsᴛ tāni तानि which gives Prakrit tāiṁ ताइं which is reflexed in Apabhramsha as taiṁ तइं, it isn’t hard to derive tĩ from this form.
+The 3ᴘʟ.ᴍ-ᴅɪsᴛ =  **te** ते /ˈt̻e/ “they” derives from Sanskrit 3ɴᴏᴍ.ᴘʟ.ᴍ-ᴅɪsᴛ tē ते via Prakrit tē ते via Apabhramsha te ते. The 3ᴘʟ.ғ-ᴅɪsᴛ = **tyo** त्यो /ˈt̻jo/ “they” is probably an analogous formation to hyo described above. The 3ᴘʟ.ɴ-ᴅɪsᴛ = **tĩ** तीं /ˈt̻ĩ(ː)/ “they” derives from Sanskrit 3ɴᴏᴍ.ᴘʟ. ɴ-ᴅɪsᴛ tāni तानि which gives Prakrit tāiṁ ताइं which is reflexed in Apabhramsha as taiṁ तइं, it isn’t hard to derive tĩ from this form.
 
 tē → tē→ te→ te<br>
 tāḣ → tāō → <sup>!</sup>teyao → <sup>!</sup>teyo→ tyo *[analogous formation]* <br>
