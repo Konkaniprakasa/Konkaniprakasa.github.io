@@ -7,7 +7,7 @@ I recently wrote a **"mega thread"** (one of the longest Twitter/X threads I hav
 
 <img src= "/assets/images/Screenshot 2025-08-12 143550.png">
 
-## Origin of personal pronominals in Konkani
+## Origin of Konkani personal pronominals 
 
 Starting with 1sɢ = **hā̃v** हांव /ˈɦä̃ʋ/ “I”, it derives from Sanskrit 1ɴᴏᴍ.sɢ ahakam अहकम् (the general form being ahám अ॒हम्) via Prakrit ahaaṁ अहअं via Apabhramsha haüṁ हउं  [cf. Gujarati hũ હું, Braj hãũ हौं , Sindhi āū̃ آئُون आऊँ]. The 1ᴘʟ = **āmĩ** आमीं /ˈämĩ(ː)/ “we” derives from Sanskrit  ɪɴsᴛ.ᴘʟ  asmā́bʰiḣ अ॒स्माभिः॑ via Prakrit amʰēhiṁ अम्हेहिं via Apabhramsha amʰeiṁ अम्हेइं (attested Southern form is amʰaiṁ अम्हइं)[cf. Marathi āmʰi आम्ही, Gujarati ame અમે, Assamese āmi আমি, Hindi ham हम​].
 
