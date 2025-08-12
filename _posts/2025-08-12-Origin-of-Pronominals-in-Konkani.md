@@ -9,7 +9,7 @@ I recently wrote a **"mega thread"** (one of the longest Twitter/X threads I hav
 
 # Origin of Konkani personal pronominals 
 
-In this section I discuss the origin of all the personal pronouns.
+In this section, the origin of all the personal pronouns are examined.
 
 { <sup>!</sup> = reconstructed or unattested }
 
