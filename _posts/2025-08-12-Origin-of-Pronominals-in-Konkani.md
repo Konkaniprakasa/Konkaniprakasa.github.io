@@ -10,3 +10,6 @@ I recently wrote a **"mega thread"** (one of the longest Twitter/X threads I hav
 ## Origin of personal pronominals in Konkani
 
 Starting with 1sɢ = **hā̃v** हांव /ˈɦä̃ʋ/ “I”, it derives from Sanskrit 1ɴᴏᴍ.sɢ ahakam अहकम् (the general form being ahám अ॒हम्) via Prakrit ahaaṁ अहअं via Apabhramsha haüṁ हउं  [cf. Gujarati hũ હું, Braj hãũ हौं , Sindhi āū̃ آئُون आऊँ]. The 1ᴘʟ = **āmĩ** आमीं /ˈämĩ(ː)/ “we” derives from Sanskrit  ɪɴsᴛ.ᴘʟ  asmā́bʰiḣ अ॒स्माभिः॑ via Prakrit amʰēhiṁ अम्हेहिं via Apabhramsha amʰeiṁ अम्हेइं (attested Southern form is amʰaiṁ अम्हइं)[cf. Marathi āmʰi आम्ही, Gujarati ame અમે, Assamese āmi আমি, Hindi ham हम​].
+
+The 2sɢ = **tũ** तूं /ˈt̻ũ(ː)/ “thou”, derives from Sanskrit 2ɴᴏᴍ.sɢ tᵤvám त्व॒म् via Prakrit tuhaṁ तुहं which continued in Apabhramsha as tuhaṁ or tuvaṁ तुहं/तुवं, interestingly some varieties of Konkani have this pronominal as tũva तुंव [ˈt̻ũʋə ~ ˈt̻ũʋə̃ ~ ˈt̻ũə̃] which is perhaps a conservatism. The 2ᴘʟ = **tumĩ** तुमीं /ˈt̻umĩ(ː)/ “you” derives from Sanskrit ɪɴsᴛ.ᴘʟ *tuṣmā́bʰiḣ *तु॒ष्माभिः॑ (the general form being yuṣmā́bʰiḣ यु॒ष्माभिः॑) via Prakrit tumʰēhiṁ तुम्हेहिं via Apabhramsha tumʰeiṁ तुम्हेइं [attested southern form is tumʰaiṁ तुम्हइं]. The [t] here is in analogy the singular and is a pretty common thing throughout middle Indo-Aryan.
+
