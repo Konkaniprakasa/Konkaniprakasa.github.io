@@ -3,7 +3,7 @@ Title: On the Origin of Pronominals in Konkani
 layout: post
 ---
 
-Yesterday, I wrote a **"mega thread"** (one of the longest Twitter/X threads I have ever written single-handedly) on the origin of personal pronouns in Konkani. This post is going to be an expanded version wherein I will go into the details of the origin of not only personal pronominals but also others such as interrogative pronominals.
+Yesterday, I wrote a **"mega thread"** (one of the longest Twitter/X threads I have ever written single-handedly) on the origin of personal pronouns in Konkani. This post is going to be an expanded version wherein I will delve into the origin of Konkani pronominals in greater detail.
 
 <img src= "/assets/images/Screenshot 2025-08-12 143550.png">
 
@@ -68,15 +68,15 @@ yāni → jāiṁ → jaiṁ →  <sup>!</sup>jeiṁ → jĩ <br>
 
 ### <ins>Reflexive pronominal</ins>
 
-The ʀғʟx - āpuṇ आपूण /ˈäpu(ː)ɳ/ like all the other cognates in New Indo-Aryan derive from Sanskrit ɢᴇɴ.ᴍ.sɢ. ātmanaḣ आत्मनः via Prakrit appaṇō/<sup>!</sup>appuṇō अप्पणो/<sup>!</sup>अप्पुणो via Apabhramsha appaṇu/<sup>!</sup>appuṇu अप्पणु/<sup>!</sup>अप्पुणु.
+The ʀғʟx - **āpuṇ** आपूण /ˈäpu(ː)ɳ/ like all the other cognates in New Indo-Aryan derive from Sanskrit ɢᴇɴ.ᴍ.sɢ. ātmanaḣ आत्मनः via Prakrit appaṇō/<sup>!</sup>appuṇō अप्पणो/<sup>!</sup>अप्पुणो via Apabhramsha appaṇu/<sup>!</sup>appuṇu अप्पणु/<sup>!</sup>अप्पुणु.
 
 ātmanaḣ ⟿ <sup>!</sup>ātpmanaḣ → <sup>!</sup>appuṇō → <sup>!</sup>appuṇu → <sup>!</sup>āpuṇu → āpuṇ
 
-The other reflexive pronominal svatā स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण.
+The other reflexive pronominal **svatā** स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण.
 
 ### <ins>Interrogative pronominal</ins>
 
-In Old Konkani, the interrogative pronominal used to be triform- koṇu कोणु /ˈkoɳu/ sɢ.ᴍ, koṇi कोणी /ˈkoɳi/ sɢ.ғ & koṇa कोण /ˈkɔɳə/​ sɢ.ɴ indicating the three genders just like other third person pronominals discussed above. That triform system has since collapsed in modern varieties of Konkani into just one pronoun koṇ कोण​ /ˈkɔɳ/ (a continuation of the neuter umlaut affected form).
+In Old Konkani, the interrogative pronominal used to be triform- koṇu कोणु /ˈkoɳu/ sɢ.ᴍ, koṇi कोणी /ˈkoɳi/ sɢ.ғ & koṇa कोण /ˈkɔɳə/​ sɢ.ɴ indicating the three genders just like other third person pronominals discussed above. That triform system has since collapsed in modern varieties of Konkani into just one pronoun **koṇ** कोण​ /ˈkɔɳ/ (a continuation of the neuter umlaut affected form).
 
 The form koṇa कोण /ˈkɔɳə/​ sɢ.ɴ derives from Sanskrit kaḣ púnar कः पुनर् (~ कः पुनः) 'who?' via Prakrit <sup>!</sup>kapaṇa <sup>!</sup>कपण​ [?] (attested in Pali as kō pana) via Apabhramsha kavaṇa कवण​.
 
@@ -85,4 +85,11 @@ kaḣ púnaḣ → <sup>!</sup>kapaṇō → <sup>!</sup>kavaṇō → kavan�
 [The Old Konkani feminine koṇi was probably formed by adding the feminine suffix -i (←  -ia ←  -iā ← -iɣā ← -igā ← -ikā) to the stem koṇ]
 
 kaḣ púnar → <sup>!</sup>kapaṇa → kavaṇa → koṇa → koṇ /ˈkɔɳ/​
+
+### <ins>References:</ins>
+
+* G. V. Tagare, “Historical Grammar of Apabhramsa”
+* S. M. Katre, “The Formation of Konkani”
+* D. C. Sircar, "A grammar of the Prakrit language"
+* शेणै गोंयबाब (वामन वर्दे वालावलीकार​), "कोंकणिची व्याकरणी बांदावळ"
 
