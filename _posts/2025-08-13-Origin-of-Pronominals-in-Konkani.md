@@ -75,3 +75,5 @@ yāni → jāiṁ → jaiṁ →  <sup>!</sup>jeiṁ → jĩ <br>
 The ʀғʟx - āpuṇ आपूण /ˈäpu(ː)ɳ/ like all the other cognates in New Indo-Aryan derive from Sanskrit ɢᴇɴ.ᴍ.sɢ. ātmanaḣ आत्मनः via Prakrit appaṇō/<sup>!</sup>appuṇō अप्पणो/<sup>!</sup>अप्पुणो via Apabhramsha appaṇu/<sup>!</sup>appuṇu अप्पणु/<sup>!</sup>अप्पुणु.
 
 ātmanaḣ ⟿ <sup>!</sup>ātpmanaḣ → <sup>!</sup>appuṇō → <sup>!</sup>appuṇu → <sup>!</sup>āpuṇu → āpuṇ
+
+The other reflexive pronominal svatā स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण. 
