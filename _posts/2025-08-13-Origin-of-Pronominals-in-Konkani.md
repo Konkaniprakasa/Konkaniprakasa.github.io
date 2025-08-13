@@ -7,10 +7,6 @@ Yesterday, I wrote a **"mega thread"** (one of the longest Twitter/X threads I h
 
 <img src= "/assets/images/Screenshot 2025-08-12 143550.png">
 
-# Origin of Konkani personal pronominals 
-
-In this section, the origin of all the personal pronouns are examined.
-
 { <sup>!</sup> = reconstructed or unattested }
 
 ### First & Second person pronominals
@@ -76,4 +72,6 @@ The ʀғʟx - āpuṇ आपूण /ˈäpu(ː)ɳ/ like all the other cognates in
 
 ātmanaḣ ⟿ <sup>!</sup>ātpmanaḣ → <sup>!</sup>appuṇō → <sup>!</sup>appuṇu → <sup>!</sup>āpuṇu → āpuṇ
 
-The other reflexive pronominal svatā स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण. 
+The other reflexive pronominal svatā स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण.
+
+### Interrogative pronominal
