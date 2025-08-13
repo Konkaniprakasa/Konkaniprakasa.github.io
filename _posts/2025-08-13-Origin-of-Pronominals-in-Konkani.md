@@ -75,3 +75,14 @@ ātmanaḣ ⟿ <sup>!</sup>ātpmanaḣ → <sup>!</sup>appuṇō → <sup>!</
 The other reflexive pronominal svatā स्वता /ˈsʋət̻ä/ seems to be a learned borrowing from the Sanskrit adverbial svataḣ स्वतः. Whilst svataḣ in Sanksrit is treated as an indeclinable, the Konkani reflexive  svatā स्वता has declensional forms and functions indistinguishably from the above reflexive āpuṇ आपूण.
 
 ### Interrogative pronominal
+
+In Old Konkani, the interrogative pronominal used to be triform- koṇu कोणु /ˈkoɳu/ sɢ.ᴍ, koṇi कोणी /ˈkoɳi/ sɢ.ғ & koṇa कोण /ˈkɔɳə/​ sɢ.ɴ indicating the three genders just like other third person pronominals discussed above. That triform system has since collapsed in modern varieties of Konkani into just one pronoun koṇ कोण​ /ˈkɔɳ/ (a continuation of the neuter umlaut affected form).
+
+The form koṇa कोण /ˈkɔɳə/​ sɢ.ɴ derives from Sanskrit kaḣ púnar कः पुनर् (~ कः पुनः) 'who?' via Prakrit <sup>!</sup>kapaṇa <sup>!</sup>कपण​ [?] (attested in Pali as kō pana) via Apabhramsha kavaṇa कवण​.
+
+kaḣ púnaḣ → <sup>!</sup>kapaṇō → <sup>!</sup>kavaṇō → kavaṇu → koṇu 
+
+[The Old Konkani feminine koṇi was probably formed by adding the feminine suffix -i (←  -ia ←  -iā ← -iɣā ← -igā ← -ikā) to the stem koṇ]
+
+kaḣ púnar → <sup>!</sup>kapaṇa → kavaṇa → koṇa → koṇ /ˈkɔɳ/​
+
