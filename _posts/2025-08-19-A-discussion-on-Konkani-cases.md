@@ -1,4 +1,4 @@
 ---
-title: A discussion on Konkani 'cases'
+title: A discussion on Konkani Cases
 layout: post
 ---
